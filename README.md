@@ -1,12 +1,9 @@
 
-# Filter Detail：
+# Hide nothing
 
-# hide nothing
-
-# classify item with color and mini-map icon
-
+# Classify item with color and mini-map icon
 # Square: 
-waystones, Tablets，Boss fight keys
+waystones, Tablets, Boss fight keys
 # Circle: 
 currency, currency shards, runes
 # Kite: 
