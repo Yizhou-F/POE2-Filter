@@ -17,7 +17,7 @@ Show # CURRENCY - SCROLL OF WISDOM
 	BaseType == "Scroll of Wisdom"
 	SetTextColor 32 255 0
 	SetBorderColor 100 50 30 255
-	SetFontSize 26
+	SetFontSize 10
 	
 Show # Red Maps High
 	Class == "Waystones"
@@ -44,7 +44,7 @@ Show # Yellow Maps
 	Class == "Waystones"
 	WaystoneTier >= 9
 	WaystoneTier <= 12
-	SetFontSize 10
+	SetFontSize 20
   SetTextColor 255 255 255 255
   SetBackgroundColor 20 20 0 255
   PlayEffect Yellow
@@ -55,7 +55,7 @@ Show # White Maps
 	Class == "Waystones"
 	WaystoneTier >= 1
 	WaystoneTier <= 8
-	SetFontSize 10
+	SetFontSize 15
   SetTextColor 255 255 255 255
   SetBackgroundColor 20 20 0 255
   PlayEffect Grey
